@@ -9,8 +9,9 @@ fn main() {
 
 
     let y = 4;
-    // Shadowing
+
     let y = "I can also be bound to text!";
+
 
     println!("Success!");
 }
